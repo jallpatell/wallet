@@ -8,4 +8,11 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+  theme: {
+    extend: {
+      fontFamily: {
+        bricksans: ['BrickSans', 'sans-serif'],
+      },
+    },
+  },
 })

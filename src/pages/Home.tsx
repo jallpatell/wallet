@@ -10,7 +10,7 @@ const Home = () => {
           
           {/* Logo */}
           <div className="text-[50px] items-center gap-20 text-white">
-            CRYPTeX
+            <img src="public/CRYPTeX.png" alt="CRYPTeX Logo" class="h-20 w-auto" />            
           </div>
 
           {/* Navigation Items */}
